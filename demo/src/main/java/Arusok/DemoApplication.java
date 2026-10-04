@@ -1,4 +1,4 @@
-package Arusok.demo;
+package Arusok;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
