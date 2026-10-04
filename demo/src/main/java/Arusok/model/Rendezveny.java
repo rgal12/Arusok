@@ -25,4 +25,5 @@ public class Rendezveny {
     private LocalDateTime applicationStartDate;
     private LocalDateTime applicationEndDate;
 
+
 }
